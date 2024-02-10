@@ -1,2 +1,18 @@
 Please detail the instructions to view your solution here:
 
+So this is a next.js app
+The repo is here: https://github.com/QuadAces/frontend-devsoc
+
+So in order to run it
+$ npm i
+$ npm run build
+$ npm start
+
+
+
+Alrighto and I've deployed it here
+https://frontend-devsoc.vercel.app/
+
+Thanks for checking this out. I'd love some feedback on my project, and any improvements. You can contact me at stuart@stuartcutbush.com, 0476211867, or my school email zid: z5599951
+
+
